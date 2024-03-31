@@ -22,6 +22,7 @@ For this analysis I used:
 - **Matplotlib:** I used Matplotlib to create the visualizations.
 - **Seaborn:** I used Seaborn to create the visualizations.
 - **Ipywidgets:** I used Ipywidgets to create the interactive UI for the analysis to allow the user to select the different perameters of the analysis including the inclusion of visualations, list of loans, stat charts, etc.
+- **VS Code:** I used VS Code to create the Jupyter Notebooks.
 - **Git & GitHub:** I used Git and GitHub to track my work.
 
 # Dataset
